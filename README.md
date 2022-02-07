@@ -33,7 +33,7 @@ Tecnologías utilizadas en el desafio:
 
 ##### Ejecutar sistema
 ***
-Con el JDK instalado ejecutar el archivo [challenge woowup.jar] desde la consola
+Ejecutar el archivo [challenge woowup.jar] desde la consola
 ```
 $ git clone https://gitlab.com/julioD/woowupchallegne.git
 $ cd ../path/to/the/challenge woowup.jar
